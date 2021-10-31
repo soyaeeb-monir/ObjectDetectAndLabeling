@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "972596269748",
+    "project_id": "object-detect-and-labeling",
+    "storage_bucket": "object-detect-and-labeling.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972596269748:android:e5aa8acf38048a7a2a7de1",
+        "android_client_info": {
+          "package_name": "com.example.objectdetectandlabeling"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "972596269748-dm9qhvltmrh4gjcb55fgpmqbb25ahia3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjOjbbcKMxd40sMuMn9UvqbLSCGOsUhMw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "972596269748-dm9qhvltmrh4gjcb55fgpmqbb25ahia3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972596269748:android:855023badc6fc3712a7de1",
+        "android_client_info": {
+          "package_name": "com.monir.objectdetectandlabeling"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "972596269748-dm9qhvltmrh4gjcb55fgpmqbb25ahia3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjOjbbcKMxd40sMuMn9UvqbLSCGOsUhMw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "972596269748-dm9qhvltmrh4gjcb55fgpmqbb25ahia3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
